@@ -1,1 +1,3 @@
-alert 'Buhu'
+function scary(){
+	alert 'Buhu';
+}
