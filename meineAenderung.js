@@ -1,1 +1,1 @@
-alert 'Buhu'
+alert 'Buhu';
